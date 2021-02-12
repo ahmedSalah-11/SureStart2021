@@ -23,6 +23,10 @@ Tensors are multi-dimensional arrays with a uniform type and kind of like numpy 
 #### Question 2-What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 You have to initialize a session  to perform actual computations on tensors. 
 
+### Day 4 (2/11):
+the diagnosis of blood-based diseases often involves identifying and characterizing patient blood samples so i found this dataset https://www.kaggle.com/paultimothymooney/blood-cells which contains  12,500 augmented images of blood cells that can be used to detect and classify blood cells.
+The algoritm I think it will be the best in this situation is CNN as it is the most popular neural network model being used for image classification problems.
+
 
 
 
