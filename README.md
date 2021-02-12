@@ -16,3 +16,14 @@ In `unsupervised learning` the model is given the examples only and by using the
 #### Question 2-Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries:
 Scikit-Learn is a ML library that contains a lot of efficient tools and algorithms for machine learning and statistical modeling only and can't be used in any visualization.
 
+### Day 3 (2/10):
+#### Question 1-What are “Tensors” and what are they used for in Machine Learning?
+Tensors are multi-dimensional arrays with a uniform type and kind of like numpy arrays.They are immutaple like python strings so you can never update it's content.In ML tensors are used to store complex multi-dimensional data which will make solving problems with this data easier.
+
+#### Question 2-What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+You have to initialize a session  to perform actual computations on tensors. 
+
+
+
+
+
