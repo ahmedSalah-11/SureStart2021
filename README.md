@@ -28,7 +28,7 @@ the diagnosis of blood-based diseases often involves identifying and characteriz
 The algoritm I think it will be the best in this situation is CNN as it is the most popular neural network model being used for image classification problems.
 
 ### Day 9 (2/11):
-### AI game activity:
+### AI game activity: https://www.survivalofthebestfit.com/game/
 #### question 1-How do you think Machine Learning or AI concepts were utilized in the design of this game?
 The hiring process in this game was an example of automated hiring using machine learning. At the begining the data needed to train the algorithm is collected by recording my decisions but that wasn't enough to train the model because in ML we need large dataset to get high accuracy so we borrowed data from another company but because all datasets are made by humans and contains baise this caused some bias in the model and the model started to reject highly skilled candidates just because they are blue and that's because the model learned from a biased data. 
 
