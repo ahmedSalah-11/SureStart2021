@@ -50,3 +50,8 @@ In October 2019, researchers found that an algorithm used on more than 200 milli
 - There are no special assumptions needed to be made about the input.
 - Inefficient for computer vision tasks as they have a highe number of weights to train that results in high training time.
 
+
+### DAY 16 (2/23):
+#### `Rectified Linear activation function` :
+ReLU  is a simple linear function that will output the input directly if it is positive, otherwise, it will output zero. It has become the default activation function for many types of neural networks because a model that uses it is easier to train and often achieves better performance.They preserve many of the properties that make linear models easy to optimize with gradient-based methods. They also preserve many of the properties that make linear models generalize well.
+
